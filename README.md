@@ -253,3 +253,33 @@ A really nice 30 min crash course to understand Git.
 **Next Steps**
 
 This is where most of you can start applying to Data Science jobs. Congratulations!!! 🥳 You have officially completed the journey of becoming a data scientist  😁😁😁  
+
+## Bonus (sprinkle in)
+
+If you have more time left on your hands, this bonus material may help strengthen your profile even more before applying for Data Science jobs. This section might be more relevant for more experienced folks in the field as well.
+
+### Command Line and Software Engineering
+* [Missing semester of CS](https://missing.csail.mit.edu/)
+* [Design Patterns book](https://www.amazon.in/First-Design-Patterns-Brain-Friendly/dp/0596007124)
+* [Clean Code book](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* [Refactoring Guru website](https://refactoring.guru/)
+
+### Cloud Computing
+* [AWS Solution Architect Course by freecodecamp](https://www.youtube.com/watch?v=Ia-UEYYR44s)
+* [AWS Certified Cloud Practitioner by freecodecamp](https://www.youtube.com/watch?v=3hLmDS179YE)
+* [Google Cloud Training](https://cloud.google.com/training)
+* [Microsoft Azure Fundamentals by freecodecamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
+* [Cloud Academy](https://cloudacademy.com/)
+
+### DevOps
+* [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+* [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine)
+* [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
+
+### Web Developement
+* [Web developement by freecodecamp](https://www.freecodecamp.org/)
+* [Complete Web Developement Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+### Reading research papers
+* [Arxiv Sanity](http://www.arxiv-sanity.com/)
+* [Papers with code](https://paperswithcode.com/)
