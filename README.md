@@ -79,6 +79,8 @@ Written by the person who created Pandas himself, Python for Data Analysis is a 
 
 [![Python Data Science](http://i3.ytimg.com/vi/LHBE6Q9XlzI/hqdefault.jpg)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 
+These two courses are freely available by freecodecamp on Youtube. I found the content really easy to understand for beginners. They are lengthy but they provide a fantastic coverage of performing Data Analysis using Python.
+
 ### Kaggle Notebooks and/or Project 1
 
 At this point which should be around the 2-4 month mark, you should be able to start working on Kaggle. By this, I do not mean competing in competitions. 
