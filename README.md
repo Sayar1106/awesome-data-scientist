@@ -1,7 +1,7 @@
-# awesome-data-scientist
+# awesome-data-scientist [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A repository dedicated to provide a roadmap for prospective Data Science practitioners as well as maintaining resources about Data Science for beginners, intermediate as well as advanced practioners.
 
-## Table Of Contents  
+## Table Of Contents 🗂 
 
   - [Motivation](#motivation)
   - [Path to becoming a Data Scientist](#path-to-becoming-a-data-scientist)
@@ -32,11 +32,11 @@ A repository dedicated to provide a roadmap for prospective Data Science practit
     - [Research papers](#research-papers)
   - [Miscellaeneous Resources](#miscellaeneous-resources)
 
-## Motivation
+## Motivation ✊🏼
 
 The primary motivation behind this repository was so that beginners in the field of Data Science will be able to find their way through the path towards becoming a Data Scientist. In today's information age, it is very easy to get lost in the vast amount of content available online. This repository will help navigate through this information by providing a structure towards learning Data Science.
 
-## Path to becoming a Data Scientist
+## Path to becoming a Data Scientist 🚀
 
 This section will try to develop a path towards becoming a Data Scientist. 
 
@@ -46,11 +46,11 @@ Depending on your starting point, you can choose where to start from. Even if yo
 
 The roadmap presented in this repo isn't a-one-size-fits-all type of curriculum. Some of you coming from CS/Math/Statistics backgrounds may choose to cherry pick some resources while discarding others. This is perfectly okay. 👍🏼
 
-## Beginner (3-6 Months)
+## Beginner (3-6 Months) ⭐️
 
 Start here if you are a complete beginner to Data Science. or if you have recently completed an introduction to Machine Learning course like the one offered by Microsoft Azure on Udacity.
 
-### Learn Python
+### Learn Python 🐍
 
 ![python-crash-course](https://ehmatthes.github.io/pcc/images/cover.jpg)
 
@@ -72,7 +72,7 @@ Learn Python the Hard Way is perhaps the best way to learn Python 3 for someone 
 
 Automating the boring stuff with Python is a book that focuses on a more project based approach towards the language. Readers can expect to learn a variety of ways to use the Python language to create mini automation projects. A really good read!
 
-### Learn the Mathematics
+### Learn the Mathematics 🔢
 
 **Khan Academy**
 
@@ -90,7 +90,7 @@ Automating the boring stuff with Python is a book that focuses on a more project
 
 This book covers almost every mathamatical concept required to understand how Machine Learning Algorithms work. A really great book designed specifically for ML.
 
-### Learn Data Analysis Libraries
+### Learn Data Analysis Libraries 📈
 
 **Books**
 
@@ -110,7 +110,7 @@ Written by the person who created Pandas himself, Python for Data Analysis is a 
 
 These two courses are freely available by freecodecamp on Youtube. I found the content really easy to understand for beginners. They are lengthy but they provide a fantastic coverage of performing Data Analysis using Python.
 
-### Kaggle Notebooks and/or Project 1
+### Kaggle Notebooks and/or Project 1 🗒
 
 At this point which should be around the 2-4 month mark, you should be able to start working on Kaggle. By this, I do not mean competing in competitions. 
 
@@ -118,7 +118,7 @@ Kaggle users post datasets on which EDA notebooks can be created by other users.
 
 You may also start working on exploratory data analysis based projects where you find a dataset of your interest and do some data analysis on it.
 
-### Learn Machine Learning Concepts
+### Learn Machine Learning Concepts 💻
 
 **Courses**
 * [Stanford Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) (Recommended)
@@ -144,11 +144,11 @@ Note that for the above book, it is advisable to read upto Part 1 initially. Thi
 
 We can move to part two in the next 6 months which involves Deep Learning with Tensorflow.
 
-## Intermediate (6-12 Months)
+## Intermediate (6-12 Months) ⭐ ️
 
 At this stage, you will be comfortable working with Data Science libraries and different datasets. Now, we will be moving into slightly more advanced topics like Deep Learning.
 
-### Learn Deep Learning Concepts and Libraries
+### Learn Deep Learning Concepts and Libraries 👨🏽‍💻👩🏽‍💻
 
 **Courses**
 
@@ -176,7 +176,7 @@ Another book written by the author of a famous library, Deep Learning with Pytho
 
 Note that there is a newer version of the book set to be released which will cover the use of Keras in Tensorflow 2.0.
 
-### Learn Deep Learning and Machine Learning Math (Optional)
+### Learn Deep Learning and Machine Learning Math (Optional) ⨊∏∀
 
 This section is left optional because these books will take a lot of effort to read and understand. There is a lot of math involved within the content of these books but it really helps to understand what is really happening underneath the Machine Learning libraries that we have learnt so far.
 
@@ -192,37 +192,37 @@ The most famous book about Deep Learning, it is a must read for all Deep Learnin
 
 Another very famous book that focuses on the mathematics behind classical machine learning models, The Elements of Statistical Learning is a classic.
 
-### Project 2 
+### Project 2 💻
 
 Depending on how soon you have completed the material (excluding the optional section), you might want to considering building another project at this point. 
 You can pick either a classical ML project or a Deep Learning one. 
 
-## Advanced (12-18 Months)
+## Advanced (12-18 Months) ⭐️
 
 At this stage, you would have sufficient knowledge about the breadth of the field of Data Science and Machine Learning. There are a couple of paths one could take here depending on the interests and goals.
 
-### Project 3 and/or 4
+### Project 3 and/or 4 💻
 
 These projects could be domain specific such as:
 *  Computer Vision
 *  NLP
 *  Reinforcement Learning 
 
-### Data Science Competitions
+### Data Science Competitions 🦾
 
 Look up competitions that are happening in websites like [Kaggle](https://www.kaggle.com/), [Hackerearth](https://www.hackerearth.com/), [DrivenData](https://www.drivendata.org/) and join and participate! If you are in college, you could also look at college level Data Science competitions as well.
 
-### Implementing a research paper
+### Implementing a research paper 🤖
 
 This is technically also a project but in this case, you will be specifically taking a research paper of interest and trying to implement the concepts presented in it. 
 This is definitely the hardest among all of the three tracks mentioned here. However, having a research paper implementation project in your resume is pretty awesome as it will help you stand out from the crowd.
 
-## Professional/ Job Ready (18-24 Months)
+## Professional/ Job Ready (18-24 Months) 💼
 
 This section will focus on making you a really well rounded Data Scientist. By now, your resume should have atleast 2-4 Data Science projects. 
 In these sections, we will try to cover the remaining aspects of landing that Data Science job.
 
-### Learning and Practicing SQL
+### Learning and Practicing SQL 📊
 Many roadmaps may include this step at the start. However, the reason I include this at the end is because I feel the best way to learn SQL is to practice it. Post this stage, most of you will be lining up interviews for Data Science positions. Most companies will have a round of SQL questions in their interviews. Hence, by practicing it now, your practical concepts will remain fresh.
 
 **Courses**
@@ -237,7 +237,7 @@ Many roadmaps may include this step at the start. However, the reason I include 
 *  [HackerRank](https://www.hackerrank.com/domains/sql) (Recommended)
 *  [SQL Fiddle](http://sqlfiddle.com/) (Optional)
 
-### Data Structures and Algorithms
+### Data Structures and Algorithms 🧩
 
 Again, one of those topics that a lot of roadmaps either choose to include in the initial stages or discard entirely. Eitherways, having a strong foundation in Data Structures and Algorithms is very important. 
 
@@ -261,7 +261,7 @@ If you are from a CS background, you will most likely be familiar with all the t
 
 There will me more resources available for this topic in resources section
 
-### Git and Github
+### Git and Github 👻
 
 Essential skill to have. Every company working with software will be using version control. Hence, it is absolutely essential to have a sound knowledge of git.
 
@@ -283,7 +283,7 @@ A really nice 30 min crash course to understand Git.
 
 This is where most of you can start applying to Data Science jobs. Congratulations!!! 🥳 You have officially completed the journey of becoming a data scientist  😁😁😁  
 
-## Bonus (sprinkle in)
+## Bonus (sprinkle in) 😻
 
 If you have more time left on your hands, this bonus material may help strengthen your profile even more before applying for Data Science jobs. This section might be more relevant for more experienced folks in the field as well.
 
