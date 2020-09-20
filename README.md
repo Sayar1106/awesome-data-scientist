@@ -1,7 +1,36 @@
 # awesome-data-scientist
 A repository dedicated to provide a roadmap for prospective Data Science practitioners as well as maintaining resources about Data Science for beginners, intermediate as well as advanced practioners.
 
-## Table Of Content  
+## Table Of Contents  
+
+  - [Motivation](#motivation)
+  - [Path to becoming a Data Scientist](#path-to-becoming-a-data-scientist)
+  - [Beginner (3-6 Months)](#beginner-3-6-months)
+    - [Learn Python](#learn-python)
+    - [Learn the Mathematics](#learn-the-mathematics)
+    - [Learn Data Analysis Libraries](#learn-data-analysis-libraries)
+    - [Kaggle Notebooks and/or Project 1](#kaggle-notebooks-andor-project-1)
+    - [Learn Machine Learning Concepts](#learn-machine-learning-concepts)
+  - [Intermediate (6-12 Months)](#intermediate-6-12-months)
+    - [Learn Deep Learning Concepts and Libraries](#learn-deep-learning-concepts-and-libraries)
+    - [Learn Deep Learning and Machine Learning Math (Optional)](#learn-deep-learning-and-machine-learning-math-optional)
+    - [Project 2](#project-2)
+  - [Advanced (12-18 Months)](#advanced-12-18-months)
+    - [Project 3 and/or 4](#project-3-andor-4)
+    - [Data Science Competitions](#data-science-competitions)
+    - [Implementing a research paper](#implementing-a-research-paper)
+  - [Professional/ Job Ready (18-24 Months)](#professional-job-ready-18-24-months)
+    - [Learning and Practicing SQL](#learning-and-practicing-sql)
+    - [Data Structures and Algorithms](#data-structures-and-algorithms)
+    - [Git and Github](#git-and-github)
+  - [Bonus (sprinkle in)](#bonus-sprinkle-in)
+    - [Command Line and Software Engineering](#command-line-and-software-engineering)
+    - [Cloud Computing](#cloud-computing)
+    - [MLOps](#mlops)
+    - [DevOps](#devops)
+    - [Web Developement](#web-developement)
+    - [Research papers](#research-papers)
+  - [Miscellaeneous Resources](#miscellaeneous-resources)
 
 ## Motivation
 
@@ -271,6 +300,9 @@ If you have more time left on your hands, this bonus material may help strengthe
 * [Microsoft Azure Fundamentals by freecodecamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 * [Cloud Academy](https://cloudacademy.com/)
 
+### MLOps
+* [Full Stack Deep Learning Course](https://course.fullstackdeeplearning.com/)
+
 ### DevOps
 * [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine)
@@ -280,6 +312,10 @@ If you have more time left on your hands, this bonus material may help strengthe
 * [Web developement by freecodecamp](https://www.freecodecamp.org/)
 * [Complete Web Developement Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-### Reading research papers
+### Research papers
 * [Arxiv Sanity](http://www.arxiv-sanity.com/)
 * [Papers with code](https://paperswithcode.com/)
+
+## Miscellaeneous Resources
+
+To be filled soon!
