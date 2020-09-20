@@ -19,7 +19,7 @@ Some of you coming from CS/Math/Statistics backgrounds may choose to cherry pick
 
 ## Beginner (3-6 Months)
 
-Start here if you are a complete beginner to Data Science.
+Start here if you are a complete beginner to Data Science. or if you have recently completed an introduction to Machine Learning course like the one offered by Microsoft Azure on Udacity.
 
 ### Learn Python
 
@@ -36,3 +36,55 @@ Start here if you are a complete beginner to Data Science.
 [**_online-book-link_**](https://automatetheboringstuff.com/)
 
 [**_udemy-course-link_**](https://www.udemy.com/course/automate/)
+
+### Learn the Mathematics
+
+**Khan Academy**
+
+* [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
+* [Calculus 1](https://www.khanacademy.org/math/calculus-1)
+* [Calculus 2](https://www.khanacademy.org/math/calculus-2)
+* [Calculus 3](https://www.khanacademy.org/math/calculus-3)
+* [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+
+**Books**
+
+![mml](https://mml-book.github.io/static/images/mml-book-cover.jpg)
+
+[**_free-ebook-link_**](https://mml-book.github.io/book/mml-book.pdf)
+
+### Learn Data Analysis Libraries
+
+**Books**
+
+![Python Data Analysis](https://covers.oreillystatic.com/images/0636920050896/cat.gif)
+
+[**_free-ebook-link_**](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)
+
+**Courses**
+
+[![Python Data Analysis](http://i3.ytimg.com/vi/r-uOLxNrNk8/hqdefault.jpg)](https://www.youtube.com/watch?v=r-uOLxNrNk8)
+
+**Python Data Science**
+
+[![Python Data Science](http://i3.ytimg.com/vi/LHBE6Q9XlzI/hqdefault.jpg)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
+
+### Learn Machine Learning Concepts
+
+**Courses**
+* [Stanford Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [IBM Cousera Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-emXxexpPc9OtbwAEu_8s1g&siteID=OyHlmBp2G0c-emXxexpPc9OtbwAEu_8s1g&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c)
+* [edX Machine Learning](https://www.edx.org/course/machine-learning?source=aw&awc=6798_1600585301_1776a8a057a9aa422da348c297510470&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=315645_LearnDataSci)
+
+**Books**
+
+
+![100-page-ml-book](https://m.media-amazon.com/images/I/51XgdTo3xrL._AC_UY436_FMwebp_QL65_.jpg)
+
+[**_link-to-booksite(not free)_**](http://themlbook.com/)
+
+![intro-to-ml-with-sklearn-tensorflow](https://images-na.ssl-images-amazon.com/images/I/51Ec+8bKSoL._SX258_BO1,204,203,200_.jpg)
+
+[**_link-to-ebook_**](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
+
+## Intermediate (6-12 Months)
