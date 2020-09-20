@@ -69,7 +69,7 @@ Start here if you are a complete beginner to Data Science. or if you have recent
 
 [![Python Data Science](http://i3.ytimg.com/vi/LHBE6Q9XlzI/hqdefault.jpg)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 
-**Kaggle Notebooks and/or Project 1**
+### Kaggle Notebooks and/or Project 1
 
 At this point which should be around the 2-4 month mark, you should be able to start working on Kaggle. By this, I do not mean competing in competitions. 
 
@@ -133,3 +133,87 @@ This section is left optional because these books will take a lot of effort to r
 ![Deep Learning](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262035613%26type%3D.jpg?itok=opJUfdCT)
 
 [**_free-ebook-link_**](https://www.deeplearningbook.org/)
+
+![elements-of-statistical-learning](https://images-na.ssl-images-amazon.com/images/I/41TmbdP0EZL._SX331_BO1,204,203,200_.jpg)
+
+[**_free-ebook-link_**](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
+### Project 2 
+
+Depending on how soon you have completed the material (excluding the optional section), you might want to build another project at this point. 
+You can pick either a classical ML project or a Deep Learning one. 
+
+## Advanced (12-18 Months)
+
+At this stage, you would have sufficient knowledge about the breadth of the field of Data Science and Machine Learning. There are a couple of paths one could take here depending on the interests and goals.
+
+### Project 3 and/or 4
+
+These projects could be domain specific such as Computer Vision, NLP, Reinforcement Learning etc.
+
+### Data Science Competitions
+
+Look up competitions that are happening in websites like Kaggle, Hackerearth, Driven Data and join and participate! If you are in college, you could also look at college level Data Science competitions as well.
+
+### Implementing a research paper
+
+This is technically also a project but in this case, you will be specifically taking a research paper of interest and trying to implement the concepts presented in it. 
+This is definitely the hardest among all of the three tracks mentioned here. However, having a research paper implementation project in your resume is pretty awesome as it will help you stand out from the crowd.
+
+## Professional/ Job Ready (18-24 Months)
+
+This section will focus on making you a really well rounded Data Scientist. By now, your resume should have atleast 2-4 Data Science projects. 
+In these sections, we will try to cover the remaining aspects of landing that Data Science job.
+
+### Learning and Practicing SQL
+Many roadmaps may include this step at the start. However, the reason I include this at the end is because I feel the best way to learn SQL is to practice it. Post this stage, most of you will be lining up interviews for Data Science positions. Most companies will have a round of SQL questions in their interviews. Hence, by practicing it now, your practical concepts will remain fresh.
+
+**Courses**
+
+* [Intro to SQL by Kaggle](https://www.kaggle.com/learn/intro-to-sql)
+* [Advanced SQL by Kaggle](https://www.kaggle.com/learn/intro-to-sql)
+* [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science?ranMID=40328&ranEAID=Vq5kdUDL6n8&ranSiteID=Vq5kdUDL6n8-rKPCQz_ZHgOhTzcCgj35Yw&siteID=Vq5kdUDL6n8-rKPCQz_ZHgOhTzcCgj35Yw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vq5kdUDL6n8#syllabus)
+
+**Practice**
+
+*  [SQL Zoo](https://sqlzoo.net/)
+*  [HackerRank](https://sqlzoo.net/)
+*  [SQL Fiddle](http://sqlfiddle.com/)
+
+### Data Structures and Algorithms
+
+Again, one of those topics that a lot of roadmaps either choose to include in the initial stages or discard entirely. Eitherways, having a strong foundation in Data Structures and Algorithms is very important. 
+
+Data Science roles may not test these concepts as hard as a Software Engineering role. However, most FAANG companies as well as a lot of startups do ask a round of coding interview questions even for Data Science roles.
+
+If you are from a CS background, you will most likely be familiar with all the topics presented here.
+
+**Courses**
+  
+  * [Algorithms Part 1 by Princeton University of Coursera](https://www.coursera.org/learn/algorithms-part1)
+  * [Algorithms Part 2 by Princeton University of Coursera](https://www.coursera.org/learn/algorithms-part2)
+  * [Data Structures and Algorithms Specialization on Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
+  * [Data Structures and Algorithms in Python by Udacity](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
+  **Practice**
+
+  *  [Leetcode](https://leetcode.com/) (Recommended)
+  * [HackerRank](https://www.hackerrank.com/) (Recommended)
+  * [Codechef](https://www.codechef.com/) (Optional)
+  * [Codeforces](https://codeforces.com/) (Optional)
+
+There will me more resources available for this topic in resources section
+
+### Git and Github
+
+Essential skill to have. Every company working with software will be using version control. Hence, it is absolutely essential to have a sound knowledge of git.
+
+**Books**
+
+![Pro Git](https://git-scm.com/images/progit2.png)
+
+[**_free-book-link_**](https://git-scm.com/book/en/v2)
+
+**Courses**
+
+[![git-crash-course](http://i3.ytimg.com/vi/SWYqp7iY_Tc/hqdefault.jpg)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
