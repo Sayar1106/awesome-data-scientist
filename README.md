@@ -217,3 +217,5 @@ Essential skill to have. Every company working with software will be using versi
 **Courses**
 
 [![git-crash-course](http://i3.ytimg.com/vi/SWYqp7iY_Tc/hqdefault.jpg)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+This is where most of you can start applying to Data Science jobs. Congratulations!!! 🥳 You have officially completed the journey of becoming a data scientist  😁😁😁  
